@@ -50,6 +50,13 @@
             "decimal": 8,
             "type": "zcash"
         },
+         { 
+            "title": "Friends Token",
+            "code": "FREND",
+            "decimal": 18,
+            "type": "bep20",
+            "address": "0x02d13caba665acdaff7bae5a97662f54ed5f1ca6"
+        },
         {
             "title": "1INCH Token",
             "code": "1INCH",
