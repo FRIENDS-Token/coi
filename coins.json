@@ -11,6 +11,11 @@
             "name": "DEXes",
             "description": "Decentralized cryptocurrency exchanges."
         },
+         {
+            "id": "friends_token",
+            "name": "FREND",
+            "description": "FREND is a film financing platform."
+        },
         {
             "id": "lending",
             "name": "Lending",
